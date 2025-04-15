@@ -9,7 +9,7 @@
 - 👀 I’m interested in:  
   Full-stack development using `JavaScript`, `Node.js`, and `.NET technologies`
 - 🌱 I’m currently learning:  
-  `.NET` · `Blazor` · `Entity Framework` · Clean Architecture with `C#`
+  `.NET` · `Blazor` · `Entity Framework` · Clean Architecture with `C#` & much more.
 
 
 ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartgro2&show_icons=true&theme=radical)
