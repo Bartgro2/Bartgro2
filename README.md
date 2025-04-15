@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning:  
   `.NET` · `Blazor` · `Entity Framework` · Clean Architecture with `C#`
 
-<!-- Optional: show stats or pinned projects -->
-<!--
+
 ![Bart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartgro2&show_icons=true&theme=radical)
--->
 
