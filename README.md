@@ -9,7 +9,7 @@
 ### 🚀 Current Focus  
 - 🔧 **Building**: Real-world projects with `.NET` and `Blazor`  
 - 📚 **Learning**: Entity Framework, DDD, and CI/CD pipelines  
-- � **Goal**: Contribute to open-source in 2024  
+- � **Goal**: Improve my live and getting back into game development 
 
 ---
 
