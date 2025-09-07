@@ -2,13 +2,9 @@
 
 - 🎓 **MBO 4 Software Developer** @ [Nova College](https://www.novacollege.nl/) (2021–2025)  
 - 🖥️ Former **ICT Support (MBO 2)** graduate  
-- 🌐 **Learning**: Full-stack (C#/Bootstrap), Clean Architecture, Blazor, and DevOps  
-
 ---
 
 ### 🚀 Current Focus  
-- 🔧 **Building**: Real-world projects with `.NET` and `Blazor`  
-- 📚 **Learning**: Entity Framework, DDD, and CI/CD pipelines  
 - � **Goal**: Improve my live and getting back into game development 
 
 ---
@@ -33,16 +29,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Herd](https://img.shields.io/badge/Herd-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Learning Now**  
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![.NET Progress](https://progress-bar.dev/70?title=.NET&width=200)  
-*(Learning tracker for fun!)*  
-
 ---
 
 ### 📊 GitHub Stats  
